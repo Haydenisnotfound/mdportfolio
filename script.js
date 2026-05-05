@@ -1,5 +1,5 @@
 // Teaching Philosophy Text Split into Two Paragraphs
-const philosophyText1 = `My goal as an instructor is to guide students through web design from beginner to intermediate skills, while cultivating resilience and self-confidence. I aim to give students an authentic experience of tackling challenging problems, showing them that difficulty is not a barrier but an opportunity for growth. `;
+const philosophyText1 = `My goal as a student is to learn from being a beginner to having intermediate skills, while cultivating resilience and self-confidence. I aim to have an authentic experience of tackling challenging problems, learning that difficulty is not a barrier but an opportunity for growth. `;
 
 const philosophyText2 = `Mastery is not the expectation; perseverance, curiosity, and learning from mistakes are. Students develop a "tolerance for complexity", persisting through frustration and uncertainty, knowing that effort leads to meaningful progress. Structured projects explore HTML, CSS, JavaScript, responsive design, and interactive interfaces, encouraging experimentation, iteration, and problem-solving.`;
 
