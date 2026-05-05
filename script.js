@@ -1,7 +1,7 @@
 // Teaching Philosophy Text Split into Two Paragraphs
-const philosophyText1 = `My goal as a student is to learn from being a beginner to having intermediate skills, while cultivating resilience and self-confidence. I aim to have an authentic experience of tackling challenging problems, learning that difficulty is not a barrier but an opportunity for growth. `;
+const philosophyText1 = `My goal as a student is to learn from being a beginner to having intermediate skills, while cultivating resilience and self-confidence. I aim to have an authentic experience of tackling challenging problems, learning that difficulty is not a barrier but an opportunity for growth. I have made some cool games, tools, and interactive projects using HTML, CSS, and Javascript. `;
 
-const philosophyText2 = `Mastery is not the expectation; perseverance, curiosity, and learning from mistakes are. Students develop a "tolerance for complexity", persisting through frustration and uncertainty, knowing that effort leads to meaningful progress. Structured projects explore HTML, CSS, JavaScript, responsive design, and interactive interfaces, encouraging experimentation, iteration, and problem-solving.`;
+const philosophyText2 = `I'm interested in Formula One, basketball, learning to interact with others, and spending time with my two dogs, Jojo and Spikey. These projects show what I have learned so far.`;
 
 const para1 = document.getElementById("philosophy-text-1");
 const para2 = document.getElementById("philosophy-text-2");
